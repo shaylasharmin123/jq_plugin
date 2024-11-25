@@ -1,0 +1,13 @@
+.count{
+  padding: 100px 0;
+  background-color: aqua;
+}
+
+.bg{
+  height: 500px;
+}
+
+.parallax-window {
+    min-height: 500px;
+    background: transparent;
+}

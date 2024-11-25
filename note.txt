@@ -1,0 +1,22 @@
+// //exmple 2:old rules
+// $(document).ready(function(){
+
+//   $('button').click(function(){
+
+//     alert("wellcome to the text");
+
+//   });
+
+// });
+
+//exmple 2:new rules
+// $(document).ready(function(){
+
+//   $('button').on("click", function(){
+
+//     alert("welcome to my page");
+
+//   });
+
+// });
+
